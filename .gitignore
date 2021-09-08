@@ -1,0 +1,8 @@
+# Editor
+.vscode/
+
+# virtual environment
+env
+
+# data
+data/*
