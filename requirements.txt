@@ -3,6 +3,7 @@ pandas
 pandas-profiling
 matplotlib
 scikit-learn
-jupyter notebook
-jupyter lab
 kaggle
+
+jupyter
+jupyterlab
