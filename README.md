@@ -20,8 +20,8 @@
 
   - Store the contents of the downloaded folder into the `data/` folder
 
-1. Run jupyter notebook / jupyter lab
+3. Run jupyter notebook / jupyter lab
 
-```
-jupyter lab
-```
+  ```
+  jupyter lab
+  ```
