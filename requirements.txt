@@ -1,6 +1,7 @@
 numpy
 pandas
 pandas-profiling
+plotly
 matplotlib
 scikit-learn
 kaggle
