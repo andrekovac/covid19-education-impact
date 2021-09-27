@@ -4,6 +4,7 @@ pandas-profiling
 plotly
 matplotlib
 scikit-learn
+scipy
 kaggle
 seaborn
 
